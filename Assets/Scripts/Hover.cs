@@ -6,7 +6,7 @@ public class Hover : MonoBehaviour
 {
     public float amplitude = 0.1f;
     public float frequency = 3f;
-
+    
     private Vector3 startPos;
 
     private void Start()

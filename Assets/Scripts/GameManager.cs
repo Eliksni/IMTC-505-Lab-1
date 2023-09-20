@@ -59,6 +59,11 @@ namespace IMTC505.starter.SampleGame
             Destroy(gamePoint.gameObject);
         }
 
+        public int GetPoints()
+        {
+            return Mathf.FloorToInt(_points);
+        }
+
         // Update is called once per frame
         void Update()
         {
