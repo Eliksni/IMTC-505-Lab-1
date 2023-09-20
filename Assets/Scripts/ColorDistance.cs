@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Changes the color of a game object based on the distance from the player.
 public class ColorDistance : MonoBehaviour
 {
     public Transform player;

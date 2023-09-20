@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using IMTC505.starter.SampleGame;
 using UnityEngine;
 
+// Rotates a game object based on the points, starting with no rotation.
 public class ObjectRotate : MonoBehaviour
 {
     public GameManager gameManager;
