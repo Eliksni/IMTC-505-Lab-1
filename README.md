@@ -9,9 +9,9 @@ Within this lab we were tasked with creating using the provided unitypackage to 
 
 ## Added Behaivours
 The behaviours I added within my scene were:
- - A script to have objects hover up and down slowly
- - A script that changes the color of an asset based off distance from the player
- - A script that increases the rotation of an asset based of the number of points collected, starting from no rotation
+ - A script to have objects hover up and down slowly (Hover.cs)
+ - A script that changes the color of an asset based off distance from the player (ColorDistance.cs)
+ - A script that increases the rotation of an asset based of the number of points collected, starting from no rotation (ObjectRotate.cs)
 
 Within my scene, I added the first two behaviours to all the point objects, and I added the third behaivour to the 5 different (4 unique) added tree assets that I acquired through the unity store
 
